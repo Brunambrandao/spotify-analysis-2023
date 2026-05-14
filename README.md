@@ -32,9 +32,13 @@ Desenvolvido como projeto prático na **Laboratoria**, o pipeline abrange desde 
 ---
 
 ## 📂 Estrutura do Repositório
-- `queries/`: Contém os 7 scripts SQL utilizados no processo de ETL e análise.
-- `dashboard/`: Arquivo PDF com a visão estática do dashboard.
-- `limpeza dos dados.md`: Documentação detalhada de cada etapa de tratamento.
+
+Para facilitar a navegação e o entendimento do projeto, o repositório está organizado da seguinte forma:
+
+* **[queries/](queries/)**: Pasta contendo os 7 scripts SQL utilizados para extração, limpeza e análise estatística dos dados.
+* **[dashboard/](dashboard/)**: Pasta com o arquivo PDF do dashboard interativo e capturas de ecrã das visualizações principais.
+* **[dados-utilizados.md](dados-utilizados.md)**: Documentação técnica detalhando a localização das tabelas no BigQuery e a hierarquia do projeto.
+* **[limpeza-dos-dados.md](limpeza-dos-dados.md)**: Relatório detalhado com todas as etapas de ETL, tratamento de nulos e remoção de duplicados.
 
 ---
 
