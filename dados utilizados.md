@@ -27,4 +27,4 @@ Abaixo estão detalhados os objetos utilizados no banco de dados para suportar o
 
 ## 👩‍💻 Autora
 **Bruna Medeiros Brandão**
-*Analista de Dados em Transição*
+*Analista de Dados em Junior*
