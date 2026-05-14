@@ -1,4 +1,4 @@
-# 🎵 Panorama Global de Streaming 2023
+# 🎵 Panorama Global de Streaming 
 ### Análise de Performance: Spotify, Apple Music e Shazam
 
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
